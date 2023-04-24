@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "x20+1AdlwjACDKGBCcwFXmhdiELKK4c7HqUwlgoZO4tiOjm0SUiMoaNyBlGZZsIjWVFyDotvH6Ir7VLeThZFDg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dmitrii.andreev\\source\\repos\\TestShop\\TestShop.Extranet\\TestShop.Extranet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dmitrii.andreev\\.nuget\\packages\\microsoft.aspnetcore.spaproxy\\6.0.13\\microsoft.aspnetcore.spaproxy.6.0.13.nupkg.sha512",
+    "C:\\Users\\dmitrii.andreev\\.nuget\\packages\\microsoft.typescript.msbuild\\5.0.3\\microsoft.typescript.msbuild.5.0.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.travelline.lan:8081/repository/nugetv3-proxy/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    },
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.travelline.lan/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

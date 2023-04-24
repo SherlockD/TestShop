@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "http://localhost:44422",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "C:\\Users\\dmitrii.andreev\\source\\repos\\TestShop\\TestShop.Extranet\\client-app\\",
+"MaxTimeoutInSeconds": "120"
+}
+}
